@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <section className="w-full text-white h-screen bg-black">
+    <section className="w-full text-midnight min-h-screen bg-black">
       <Nav />
       <Landing />
     </section>
